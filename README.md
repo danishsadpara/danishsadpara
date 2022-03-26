@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danishsadpara
 - 👀 I’m interested in creating things by my skills
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on software house
+- 💞️ I’m looking to collaborate in software development.
 - 📫 How to reach me danishsadpara@gmail.com
 
 <!---
