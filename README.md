@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @danishsadpara
-- 👀 I’m interested in creating things by my skills
-- 🌱 I’m currently learning web development
+- 👀 I’m graduated in BSCS (software systems)
+- 🌱 I’m experienced in graphic designing.
+- 🌱 I have also sound knowledge and eperience in UI/UX designing.
 - 💞️ I’m looking to collaborate in software development.
 - 📫 How to reach me danishsadpara@gmail.com
 
