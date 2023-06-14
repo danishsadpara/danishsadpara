@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danishsadpara
 - 👀 I’m graduated in BSCS (software systems)
-- 🌱 I’m experienced in graphic designing.
+- 🌱 I’m experienced in Nextjs, MUI, typescript, GraphQL, mongoDB, SQL,git and Auth0.
 - 🌱 I have also sound knowledge and eperience in UI/UX designing.
-- 💞️ I’m looking to collaborate in software development.
+- 💞️ I have keen interest in software development.
 - 📫 How to reach me danishsadpara@gmail.com
 
 <!---
