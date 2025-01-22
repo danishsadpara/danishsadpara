@@ -3,7 +3,7 @@
 - 🌱 I’m experienced in Nextjs, MUI, typescript, GraphQL, mongoDB, SQL,git,redis,tailwindcss and Auth0.
 - 🌱 I have also sound knowledge and eperience in UI/UX designing.
 - 💞️ I have keen interest in software development.
-- 📫 How to reach me danishsadpara@gmail.com
+- 📫 How to reach me mmdanish.cs@gmail.com
 
 <!---
 danishsadpara/danishsadpara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
